@@ -14,10 +14,10 @@ _Learning outcomes_:
 
 _Lessons_:
 
-1. [01 - Installing Python and Jupyter Notebook with Anaconda](01 - Installing Python and Jupyter Notebook with Anaconda.ipynb)
-2. [02 - Python basics](02 - Python basics.ipynb)
-3. [03 - Python advanced](03 - Python advanced.ipynb)
-4. [04 - Python for data analysis](04 - Python for data analysis.ipynb) [Optional and extra]
+1. [01 - Installing Python and Jupyter Notebook with Anaconda](https://github.com/whythawk/intro-to-python/blob/master/01%20-%20Installing%20Python%20and%20Jupyter%20Notebook%20with%20Anaconda.ipynb)
+2. [02 - Python basics](https://github.com/whythawk/intro-to-python/blob/master/02%20-%20Python%20basics.ipynb)
+3. [03 - Python advanced](https://github.com/whythawk/intro-to-python/blob/master/03%20-%20Python%20intermediate.ipynb)
+4. [04 - Python for data analysis](https://github.com/whythawk/intro-to-python/blob/master/04%20-%20Python%20for%20data%20analysis.ipynb)
 
 This fledgling overview is not aimed at teaching analysis or statistical techniques, but rather as a brief introduction to the syntax and methods used in Python programming.
 
